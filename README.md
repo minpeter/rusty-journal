@@ -26,5 +26,6 @@ SUBCOMMANDS:
 ## .bashrc and .zshrc config
 
 ```
-export PATH=$HOME/github.com/rusty-journal/target/release:$PATH alias todo="rusty-journal"
+export PATH=$HOME/"git clone path"/rusty-journal/target/release:$PATH
+alias todo="rusty-journal"
 ```
