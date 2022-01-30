@@ -22,3 +22,9 @@ SUBCOMMANDS:
     help    Prints this message or the help of the given subcommand(s)
     list    List all tasks in the journal file
 ```
+
+## .bashrc and .zshrc config
+
+```
+export PATH=$HOME/github.com/rusty-journal/target/release:$PATH alias todo="rusty-journal"
+```
